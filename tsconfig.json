@@ -1,4 +1,4 @@
-// NOTE: shadcn-svelte has a bug requiring this file to be in the projcet dir
+// NOTE: shadcn-svelte has a bug requiring this file to be in the project dir
 {
     "extends": "./.svelte-kit/tsconfig.json"
 }

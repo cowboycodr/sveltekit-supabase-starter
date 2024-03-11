@@ -14,16 +14,16 @@ This template uses a variety of technologies including:
 
 - Svelte
 - SvelteKit
-- Supabase
+- [Supabase](https://supabase.co)
 - Supabase Auth
-- Lucide (Svelte)
+- [Lucide (Svelte)](https://lucide.dev/guide/packages/lucide-svelte)
 - Moment.js
-- Shadcn UI (Svelte)
+- [Shadcn UI (Svelte)](https://www.shadcn-svelte.com/)
 - TailwindCSS
 - Vite
+- [svelte-fa (brand icons only)](https://cweili.github.io/svelte-fa/)
 
 ### Contributions
 
 No specific guideline. Just open an issue, or PR and I'll take a look. 
-
 Same thing if you need help.
